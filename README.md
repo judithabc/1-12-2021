@@ -13,9 +13,9 @@
 本来...我觉得...写读后感...我不配
 但是，因为作业我要写人物分析
 so
+
 ```
-![image](https://user-images.githubusercontent.com/87200925/157259679-22c4d05e-2fc7-406d-9832-6b54782b54cb.png)
-![image](https://user-images.githubusercontent.com/87200925/157259726-ff81190b-a891-4543-bf41-d3c83b2ae39c.png)
+![![image](https://user-images.githubusercontent.com/87200925/157262652-799c9161-8b66-4427-a049-2bcd4d047131.png)](src)
 感想这个事儿
 我一是觉得比较笼统
 反正看到别人怎么写我就开心了
